@@ -22,12 +22,12 @@
 | We             | don't              | Play | the piano |
 | They           | don't              | Play | the piano |
 ### Pregunta:
-|             | Pronoun        | Verb |           |
-| ----------- | -------------- | ---- | --------- |
-| Do          | I              | Play | the piano |
-| Do          | You            | Play | the piano |
-| <u>Does</u> | **<u>He</u>**  | Play | the piano |
-| <u>Does</u> | **<u>She</u>** | Play | the piano |
-| <u>Does</u> | **<u>It</u>**  | Play | the piano |
-| Do          | We             | Play | the piano |
-| Do          | They           | Play | the piano |
+|          | Pronoun | Verb |           |
+| -------- | ------- | ---- | --------- |
+| Do       | I       | Play | the piano |
+| Do       | You     | Play | the piano |
+| **Does** | **He**  | Play | the piano |
+| **Does** | **She** | Play | the piano |
+| **Does** | **It**  | Play | the piano |
+| Do       | We      | Play | the piano |
+| Do       | They    | Play | the piano |

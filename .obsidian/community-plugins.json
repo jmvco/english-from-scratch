@@ -2,5 +2,6 @@
   "copy-plaintext",
   "vscode-editor",
   "editing-toolbar",
-  "codeblock-customizer"
+  "codeblock-customizer",
+  "obsidian-git"
 ]
