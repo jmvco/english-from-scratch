@@ -12,12 +12,22 @@
 | They       | Play         | the piano |
 ### Negative:
 
-| Pronoun    | Negative       | Verb |           |
-| ---------- | -------------- | ---- | --------- |
-| I          | don't          | Play | the piano |
-| You        | don't          | Play | the piano |
+| Pronoun        | Negative           | Verb |           |
+| -------------- | ------------------ | ---- | --------- |
+| I              | don't              | Play | the piano |
+| You            | don't              | Play | the piano |
 | **<u>He</u>**  | **<u>doesn't</u>** | Play | the piano |
 | **<u>She</u>** | **<u>doesn't</u>** | Play | the piano |
 | **<u>It</u>**  | **<u>doesn't</u>** | Play | the piano |
-| We         | don't          | Play | the piano |
-| They       | don't          | Play | the piano |
+| We             | don't              | Play | the piano |
+| They           | don't              | Play | the piano |
+### Pregunta:
+|             | Pronoun        | Verb |           |
+| ----------- | -------------- | ---- | --------- |
+| Do          | I              | Play | the piano |
+| Do          | You            | Play | the piano |
+| <u>Does</u> | **<u>He</u>**  | Play | the piano |
+| <u>Does</u> | **<u>She</u>** | Play | the piano |
+| <u>Does</u> | **<u>It</u>**  | Play | the piano |
+| Do          | We             | Play | the piano |
+| Do          | They           | Play | the piano |

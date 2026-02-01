@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Start/01_PRESENT_SIMPLE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01_PRESENT_SIMPLE"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "274d18833dc3f70c",
   "lastOpenFiles": [
-    "Start/01_PRESENT_SIMPLE.md",
     "README.md",
+    "Start/01_PRESENT_SIMPLE.md",
     "Practice/trabajo.sql",
     "trabajo.sql",
     "Start"
