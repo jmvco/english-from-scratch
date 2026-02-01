@@ -1,48 +1,46 @@
-## Present Simple
-### Positive: 
+## 📘 Present Simple: Grammar Guide
 
-| Pronoun        | Verb             |           |
-| -------------- | ---------------- | --------- |
-| I              | Play             | the piano |
-| You            | Play             | the piano |
-| **<u>He</u>**  | **<u>Plays</u>** | the piano |
-| **<u>She</u>** | **<u>Plays</u>** | the piano |
-| **<u>It</u>**  | **<u>Plays</u>** | the piano |
-| We             | Play             | the piano |
-| They           | Play             | the piano |
-### Negative:
+Estructura básica para el uso del tiempo presente. Presta atención a la **tercera persona** resaltada en naranja/negrita.
 
-| Pronoun        | Negative           | Verb |           |
-| -------------- | ------------------ | ---- | --------- |
-| I              | don't              | Play | the piano |
-| You            | don't              | Play | the piano |
-| **<u>He</u>**  | **<u>doesn't</u>** | Play | the piano |
-| **<u>She</u>** | **<u>doesn't</u>** | Play | the piano |
-| **<u>It</u>**  | **<u>doesn't</u>** | Play | the piano |
-| We             | don't              | Play | the piano |
-| They           | don't              | Play | the piano |
-### Pregunta:
-|          | Pronoun | Verb |           |
-| -------- | ------- | ---- | --------- |
-| Do       | I       | Play | the piano |
-| Do       | You     | Play | the piano |
-| **Does** | **He**  | Play | the piano |
-| **Does** | **She** | Play | the piano |
-| **Does** | **It**  | Play | the piano |
-| Do       | We      | Play | the piano |
-| Do       | They    | Play | the piano |
-***
+### ✅ Positive Form
+| Pronoun | Verb | Complement |
+| :--- | :--- | :--- |
+| I / You / We / They | **Play** | the piano |
+| **He / She / It** | <u>**Plays**</u> | **the piano** |
+
+> **Nota:** Agregamos `-s` o `-es` al verbo solo para la tercera persona.
+
+### ❌ Negative Form
+| Pronoun | Auxiliary | Verb (Base) | Complement |
+| :--- | :--- | :--- | :--- |
+| I / You / We / They | **don't** | play | the piano |
+| **He / She / It** | <u>**doesn't**</u> | **play** | **the piano** |
+
+> **Importante:** Cuando usamos *doesn't*, el verbo vuelve a su forma base (pierde la `-s`).
+
+### ❓ Question Form
+| Auxiliary | Pronoun | Verb (Base) | Complement |
+| :--- | :--- | :--- | :--- |
+| **Do** | I / you / we / they | play | the piano? |
+| <u>**Does**</u> | **he / she / it** | **play** | **the piano?** |
+
+### 💡 Resumen Rápido
+* **Do / Don't:** I, You, We, They.
+* **Does / Doesn't:** He, She, It.
+* **Verbo en Negativo/Pregunta:** Siempre en forma base (sin `-s`).
+
+---
 ## Complete the text
 > [!note]
 > Completa el sigueinte texto con los verbos en presente en donde corresponda
 
-Hello, my name is Maria, and (**live**) _ _ _ _ _ in a small town near the coast. I (**work**) _ _ _ _ _ as a teacher in a primary school. I (**love**) _ _ _ __ _ my job because I (**spend**) _ _ _ _ _  time with children and (**help**) _ _ _ _ _ them learn new things.
+Hello, my name is Maria, and **(live)** _ _ _ _ _ in a small town near the coast. I **(work)** _ _ _ _ _ as a teacher in a primary school. I **(love)** _ _ _ __ _ my job because I **(spend)** _ _ _ _ _  time with children and **(help)** _ _ _ _ _ them learn new things.
+
 
 ### 📝 Words
 
-| #      | 🚀 Column 1 | #      | ✨ Column 2 | #      | 🧠 Column 3 |
-| :----- | :---------- | :----- | :--------- | :----- | :---------- |
 | **01** | 🏠 Live     | **16** | 🎭 Enjoy   | **31** | 🤝 Visit    |
+| :----- | :---------- | :----- | :--------- | :----- | :---------- |
 | **02** | 💼 Work     | **17** | 🧹 Do      | **32** | 📍 Go       |
 | **03** | 💙 Love     | **18** | 🎮 Play    | **33** | 🏠 Lives    |
 | **04** | 💰 Spend    | **19** | 👣 Come    | **34** | 💼 Works    |
