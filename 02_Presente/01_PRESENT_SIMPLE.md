@@ -1,4 +1,3 @@
-
 ## Present Simple
 ### Positive: 
 
@@ -41,12 +40,12 @@
 
 | Word          | Pronunciation          | Meaning                            |
 | ------------- | ---------------------- | ---------------------------------- |
-| **Monday**    | */**mán**-dei/*        | Lunes                              |
+| **Monday**    | /mán-dei/              | Lunes                              |
 | **Cooks**     | */kuks/ (vocal corta)* | Cocina                             |
 | **Food**      | */fúud/ (vocal larga)* | Comida                             |
 | **Ask**       | */ask/*                | Preguntar                          |
 | **Certainly** | */**sér**-ten-li/*     | Ciertamente, desde luego, sin duda |
-- Resumen del video en 3 lineas:
-> Stanley's restaurant is a place where day serve food Greek, italian, Mexican,Chineese but only on days specific.
+- Resumen del video:
+> Stanley's restaurant is a place where day serve food Greek, Italian, Mexican, Chinese but only on days specific.
 > they also music according to the day.
 > the restaurant is international.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/01_PRESENT_SIMPLE.md",
+                "file": "02_Presente/01_PRESENT_SIMPLE.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,11 +195,12 @@
   },
   "active": "b7e7eff612013fb7",
   "lastOpenFiles": [
-    "Start/01_PRESENT_SIMPLE.md",
-    "Start/02_VOCABULARY.md",
+    "01_Vocabulario/01_WORDS.md",
+    "01_Vocabulario",
+    "02_Presente/01_PRESENT_SIMPLE.md",
     "README.md",
     "Practice/trabajo.sql",
     "trabajo.sql",
-    "Start"
+    "02_Presente"
   ]
 }
