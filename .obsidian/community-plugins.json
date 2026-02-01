@@ -2,7 +2,5 @@
   "copy-plaintext",
   "vscode-editor",
   "editing-toolbar",
-  "codeblock-customizer",
-  "highlightr-plugin",
-  "multi-column-markdown"
+  "codeblock-customizer"
 ]
