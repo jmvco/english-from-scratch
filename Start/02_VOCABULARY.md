@@ -1,4 +1,6 @@
-Palabras o frases nuevas que voy aprendiendo:
+> [!nota]
+> Palabras o frases nuevas que voy aprendiendo:
+
 - Walk → Caminar
 - Lavar → Wash
 - Arreglar → Fix
