@@ -31,6 +31,11 @@
 | **Does** | **It**  | Play | the piano |
 | Do       | We      | Play | the piano |
 | Do       | They    | Play | the piano |
+## Complete the text
+Hello, my name is Maria, and (live) `live` in a small town near the coast. I (work) `work` as a teacher in a primary school. I (love) _ _ _ _ my job because I (spend) _ _ _ _ _  time with children and (help) _ _ _ _ _ them learn new things.
+
+
+
 ##  Activity (Video Present Simple)
 - Anota al menos 5 palabras nuevas que hayas aprendido.
 - Escribe en ingles un resumen de al menos 3 renglones sobre el video y explica lo que entendiste.
