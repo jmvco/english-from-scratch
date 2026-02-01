@@ -3,5 +3,6 @@
   "vscode-editor",
   "editing-toolbar",
   "codeblock-customizer",
-  "obsidian-git"
+  "obsidian-git",
+  "floating-toc"
 ]
