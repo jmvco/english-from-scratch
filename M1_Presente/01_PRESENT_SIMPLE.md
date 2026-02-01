@@ -61,7 +61,7 @@ Hello, my name is Maria, and **(live)** _ _ _ _ _ in a small town near the coast
 - Anota al menos 5 palabras nuevas que hayas aprendido.
 - Escribe en ingles un resumen de al menos 3 renglones sobre el video y explica lo que entendiste.
 
-![https://www.youtube.com/watch?v=YEPx_F0DVxg](https://www.youtube.com/watch?v=YEPx_F0DVxg)
+[![Alt del Video](https://img.youtube.com/vi/YEPx_F0DVxg/0.jpg)](https://www.youtube.com/watch?v=YEPx_F0DVxg)
 
 ### Resolution:
 - 5 palabras aprendidas del video
