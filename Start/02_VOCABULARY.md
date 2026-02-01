@@ -1,4 +1,4 @@
-> [!nota]
+> [!note]
 > Palabras o frases nuevas que voy aprendiendo:
 
 - Walk → Caminar
