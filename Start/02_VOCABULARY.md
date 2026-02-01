@@ -1,29 +1,30 @@
 > [!note]
 > Palabras o frases nuevas que voy aprendiendo:
 
-- Walk → Caminar
-- Lavar → Wash
-- Arreglar → Fix
-- Caer → Fall
-- Cada dia → Every day
-- Cena → Dinner
-- hacer → Make
-- Almuerzo → Lunch
-- A lot → Mucho
+| **Word (Palabra)** | Pronunciation            | **Meaning (Significado)** |
+| ------------------ | ------------------------ | ------------------------- |
+| **Walk**           | */uók/ (la 'l' es muda)* | Caminar                   |
+| **Wash**           | */uósh/*                 | Lavar                     |
+| **Fix**            | */fiks/*                 | Arreglar                  |
+| **Fall**           | */fól/*                  | Caer                      |
+| **Every Day**      | */évri-déi/*             | Cada dia                  |
+| **Dinner**         | */dí-ner/*               | Cena                      |
+| **Make**           | */méik/*                 | Hacer                     |
+| **Lunch**          | */lantch/*               | Almuerzo                  |
+| **A lot**          | */a-lót/*                | Mucho                     |
 
-
-| **Word (Palabra)** | **Meaning (Significado)**                     |
-| ------------------ | --------------------------------------------- |
-| ***Indoors***        | Dentro de un edificio                         |
-| ***Outdoors***       | En el exterior, fuera del edificio            |
-| ***Clothes***        | Ropa                                          |
-| ***Sleeve***         | Manga de la ropa                              |
-| ***Wool***           | Lana (material de la ropa)                    |
-| ***Thin Clothes***   | Ropa ligera - fina                            |
-| ***Think Clothes***  | Ropa Gruesa - pesada                          |
-| ***Heavy***          | Pesado                                        |
-| ***Gloves***         | Guantes (cubren todos los dedods or separado) |
-| ***Mittens***        | Guantes (guantes de cocina, sin divisiones)   |
-| ***hat***            | Sombrero                                      |
-| ***Dressing***       | Vistiendo                                     |
-| ***This Way***       | Por aqui - De esta                            |
+| **Word (Palabra)** | Pronunciation                                     | **Meaning (Significado)**                     |
+| ------------------ | ------------------------------------------------- | --------------------------------------------- |
+| **Indoors**        | /in-dóors/                                        | Dentro de un edificio                         |
+| **Outdoors**       | /aut-dóors/                                       | En el exterior, fuera del edificio            |
+| **Clothes**        | /klóuz/ (la 'th' es casi muda, suena a 'z' suave) | Ropa                                          |
+| **Sleeve**         | /slíiv/                                           | Manga de la ropa                              |
+| **Wool**           | /uul/ (vocal corta, como entre 'u' y 'o')         | Lana (material de la ropa)                    |
+| **Thin Clothes**   | /zin-klóuz/ (la 'z' es con lengua entre dientes)  | Ropa ligera - fina                            |
+| **Thick Clothes**  | /zik-klóuz/                                       | Ropa Gruesa - pesada                          |
+| **Heavy**          | /jé-vi/                                           | Pesado                                        |
+| **Gloves**         | /glávz/                                           | Guantes (cubren todos los dedods or separado) |
+| **Mittens**        | /mí-tens/                                         | Guantes (guantes de cocina, sin divisiones)   |
+| **hat**            | /jat/ (la 'j' es un suspiro suave, no fuerte)     | Sombrero                                      |
+| **Dressing**       | /dré-sin/                                         | Vistiendo                                     |
+| **This Way**       | /dis-uéi/                                         | Por aqui - De esta                            |
