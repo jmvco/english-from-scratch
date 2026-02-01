@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Start/02_VOCABULARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "02_VOCABULARY"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "ed0af92b70663d79",
   "lastOpenFiles": [
-    "Start/01_PRESENT_SIMPLE.md",
     "README.md",
+    "Start/02_VOCABULARY.md",
+    "Start/01_PRESENT_SIMPLE.md",
     "Practice/trabajo.sql",
     "trabajo.sql",
     "Start"
