@@ -61,7 +61,13 @@ Hello, my name is Maria, and **(live)** _ _ _ _ _ in a small town near the coast
 - Anota al menos 5 palabras nuevas que hayas aprendido.
 - Escribe en ingles un resumen de al menos 3 renglones sobre el video y explica lo que entendiste.
 
-[![Alt del Video](https://img.youtube.com/vi/YEPx_F0DVxg/0.jpg)](https://www.youtube.com/watch?v=YEPx_F0DVxg)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YEPx_F0DVxg">
+    <img src="https://img.youtube.com/vi/YEPx_F0DVxg/0.jpg" alt="Stanley's Restaurant Video" width="300px">
+  </a>
+  <br>
+  <b>🎬 Video: Stanley's Restaurant (Present Simple Practice)</b>
+</p>
 
 ### Resolution:
 - 5 palabras aprendidas del video
