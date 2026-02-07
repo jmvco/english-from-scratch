@@ -1,12 +1,18 @@
 ## 📘 Present Simple: Grammar Guide
 
-Estructura básica para el uso del tiempo presente. Presta atención a la **tercera persona** resaltada en naranja/negrita.
+El **Presente Simple** es un tiempo verbal que describe acciones habituales, estados permanentes o verdades universales.
+
+### Usos Principales
+
+- **Rutinas:** Acciones que se repiten con frecuencia.
+- **Hechos:** Verdades científicas o generales.
+- **Estados:** Situaciones constantes o sentimientos.
 
 ### ✅ Positive Form
-| Pronoun | Verb | Complement |
-| :--- | :--- | :--- |
-| I / You / We / They | **Play** | the piano |
-| **He / She / It** | <u>**Plays**</u> | **the piano** |
+| Pronoun             | Verb             | Complement    |
+| :------------------ | :--------------- | :------------ |
+| I / You / We / They | **Play**         | the piano     |
+| **He / She / It**   | <u>**Plays**</u> | **the piano** |
 
 > **Nota:** Agregamos `-s` o `-es` al verbo solo para la tercera persona.
 
